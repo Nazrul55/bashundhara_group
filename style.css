@@ -97,6 +97,7 @@ h1{
     justify-content: space-around;
     align-items: center;
     flex-wrap: wrap;
+    margin-top: 5%;
 }
 .col-3{
     flex-basis: 30%;
